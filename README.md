@@ -1,7 +1,7 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` HelloWorld is an Android app that allows users to change text and colors of the app screen.
+HelloWorld is an Android app that allows users to change text and colors of the app screen. Users can also enter custom text and display it to the screen. The colors are currently determined by the program.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
